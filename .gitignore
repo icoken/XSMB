@@ -1,0 +1,7 @@
+# 忽略临时文件
+*.pyc
+__pycache__/
+*.log
+
+# 保留分析结果但忽略临时分析脚本
+explore_combo.py
