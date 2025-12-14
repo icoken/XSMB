@@ -544,22 +544,48 @@
             statusDiv.innerHTML += '<div style="margin-top:10px;color:var(--text-muted);font-size:0.9rem;">🔄 正在获取最新数据...</div>';
 
             try {
-                // 尝试多个数据源
+                // 首选方案：使用免费API（不需要CORS代理）
+                try {
+                    const apiUrl = 'https://api-xsmb-today.onrender.com/api/v1';
+                    const response = await fetch(apiUrl, { 
+                        signal: AbortSignal.timeout(20000)
+                    });
+                    const data = await response.json();
+                    
+                    if (data && data.results && data.results['ĐB']) {
+                        const dateStr = data.time; // 格式: DD-MM-YYYY
+                        const parts = dateStr.split('-');
+                        const formattedDate = `${parts[2]}-${parts[1].padStart(2,'0')}-${parts[0].padStart(2,'0')}`;
+                        const specialPrize = parseInt(data.results['ĐB'][0]);
+                        const lastTwo = specialPrize % 100;
+                        
+                        const newData = [{ d: formattedDate, n: lastTwo }];
+                        const oldLatest = lotteryData.length > 0 ? lotteryData[0].d : '';
+                        lotteryData = mergeData(lotteryData, newData);
+                        localStorage.setItem('xsmb_data_v4', JSON.stringify(lotteryData));
+                        
+                        const newLatest = lotteryData[0].d;
+                        updateDataStatus(newLatest !== oldLatest ? `✅ 已更新到 ${newLatest}` : '数据已是最新');
+                        displayRecentDraws();
+                        calculateAllRecords();
+                        calculateTodaySignal();
+                        return;
+                    }
+                } catch (apiError) {
+                    console.log('API fetch failed:', apiError.message);
+                }
+
+                // 备选方案：使用CORS代理获取网页数据
                 const sources = [
                     {
                         url: 'https://az24.vn/xsmb-30-ngay.html',
                         parser: parseAz24Data
-                    },
-                    {
-                        url: 'https://xoso.me/xsmb-30-ngay.html',
-                        parser: parseXosoMeData
                     }
                 ];
                 
                 const proxies = [
-                    'https://api.allorigins.win/get?url=',
                     'https://corsproxy.io/?',
-                    'https://api.codetabs.com/v1/proxy?quest='
+                    'https://api.allorigins.win/get?url='
                 ];
 
                 for (const source of sources) {

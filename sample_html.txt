@@ -1,0 +1,451 @@
+<table class="mag0 fl">
+                <tbody>
+                <tr>
+                    <th>Ngày về</th>
+                    <th>ĐB</th>
+                    <th>ĐB hôm sau</th>
+                    <th>Hôm sau</th>
+                </tr>
+                                    <tr>
+                        <td>
+
+                            <a class="underline" href="https://az24.vn/xsmb-14-12-2025.html" title="XSMB 14-12-2025" day="14-12-2025">14-12-2025</a>
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">569                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">                                    <span class="clnote">- </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            <a class="underline" href="https://az24.vn/xsmb-15-12-2025.html" title="XSMB 15-12-2025" day="15-12-2025">15-12-2025</a>                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            <a class="underline" href="https://az24.vn/xsmb-11-12-2025.html" title="XSMB 11-12-2025" day="11-12-2025">11-12-2025</a>
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">526                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">978                                    <span class="clnote">36 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            <a class="underline" href="https://az24.vn/xsmb-12-12-2025.html" title="XSMB 12-12-2025" day="12-12-2025">12-12-2025</a>                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            27-7-2025
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">642                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">402                                    <span class="clnote">73 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            28-7-2025                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            29-6-2025
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">533                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">902                                    <span class="clnote">07 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            30-6-2025                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            2-6-2025
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">742                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">611                                    <span class="clnote">94 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            3-6-2025                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            26-5-2025
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">967                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">937                                    <span class="clnote">35 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            27-5-2025                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            15-5-2025
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">927                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">279                                    <span class="clnote">87 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            16-5-2025                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            27-4-2025
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">273                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">751                                    <span class="clnote">40 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            28-4-2025                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            7-2-2025
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">706                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">545                                    <span class="clnote">28 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            8-2-2025                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            13-12-2024
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">643                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">740                                    <span class="clnote">78 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            14-12-2024                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            28-6-2024
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">713                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">780                                    <span class="clnote">49 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            29-6-2024                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            17-5-2024
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">514                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">913                                    <span class="clnote">22 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            18-5-2024                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            11-9-2023
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">637                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">731                                    <span class="clnote">32 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            12-9-2023                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            14-7-2023
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">786                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">088                                    <span class="clnote">97 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            15-7-2023                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            2-10-2022
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">646                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">651                                    <span class="clnote">69 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            3-10-2022                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            25-6-2022
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">367                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">469                                    <span class="clnote">70 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            26-6-2022                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            2-6-2022
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">517                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">892                                    <span class="clnote">42 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            3-6-2022                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            19-5-2022
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">499                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">781                                    <span class="clnote">95 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            20-5-2022                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            25-4-2022
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">993                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">320                                    <span class="clnote">47 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            26-4-2022                        </td>
+
+                    </tr>
+
+                                        <tr>
+                        <td>
+
+                            27-2-2022
+                        </td>
+
+                        <td>
+                            <div class="fs16 bold">709                                <span class="clnote">68 </span>
+                            </div>
+                        </td>
+                        <td>
+                                                                                        <div class="fs16 bold">890                                    <span class="clnote">75 </span>
+                                </div>
+                                                    </td>
+
+
+                        <td>
+
+                            28-2-2022                        </td>
+
+                    </tr>
+
+                    
+                </tbody>
+            </table>
