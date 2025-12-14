@@ -1,0 +1,43 @@
+name: 自动更新XSMB数据
+
+on:
+  # 每天UTC 11:30运行 = 北京时间19:30 (越南开奖后约1小时)
+  schedule:
+    - cron: '30 11 * * *'
+  
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Run update script
+        run: python update_data.py
+      
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add historical_data.json index.html
+          git commit -m "🎲 自动更新数据 $(date +'%Y-%m-%d')"
+          git push
